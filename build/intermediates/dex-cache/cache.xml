@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/saul/Descargas/CintaNegraAndroid/EjemploFlisol/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/saul/Descargas/CintaNegraAndroid/EjemploFlisol/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1db81d143061272abffb37213511cc843c962a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saul/Escritorio/Flisol/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b072b45c4132e584258a9bc5accb46506d1c9074">
+        <dex dex="/home/saul/Escritorio/Flisol/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cffd34f14f7f95a688ddf8c9e103e839cc5fd3ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saul/Descargas/CintaNegraAndroid/EjemploFlisol/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a252bb67c00b6d27396a8fba494f8273ee3c4d91">
+        <dex dex="/home/saul/Descargas/CintaNegraAndroid/EjemploFlisol/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7082e499dd0a32ed27cb96b967842ebe5928d803/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saul/Escritorio/Flisol/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/saul/Escritorio/Flisol/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba382f59bd471fd29292a89e4edab8d9cfc2cf1c/classes.dex" />
+    </item>
+
+</items>
